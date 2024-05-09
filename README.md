@@ -132,5 +132,8 @@ the URL for the second example is : https://fuzzy-couscous-69v7rjx69qg9h59xw-398
 ## PART 2
 
 
+## PART 3 
+After successfully completing this lab report i leanrt to how create and run a server. i understood the working of a Chat Server which prints the name of the user and the message entered by the user. 
 
+i also understood how to access the ieng6 server without needing to enter a passcode everytime.
 
