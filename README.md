@@ -130,6 +130,7 @@ so the final return message will be both the examples ran till now one after the
 the URL for the second example is : https://fuzzy-couscous-69v7rjx69qg9h59xw-3980.app.github.dev/add-message?s=How%20are%20you%20today&user=yash
 
 ## PART 2
+![Image](8786024C-2174-4236-83B0-ABCF042FF581_4_5005_c.jpeg)
 
 
 ## PART 3 
