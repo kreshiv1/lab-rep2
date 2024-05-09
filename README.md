@@ -42,7 +42,7 @@ class ChatServer {
 }
 ~~~
 
-Server class used to help complit ChatServer:
+Server class used to help compile ChatServer:
 ~~~
 import java.io.IOException;
 import java.io.OutputStream;
@@ -110,20 +110,22 @@ public class Server {
 ~~~
 
 
-
+EXAMPLES:
 
 
 ![Image](AB708786-FA12-4310-96CB-BA010E188574_4_5005_c.jpeg)
 the main and HandleRequest methods are being used. 
 the URL is used as the parameter for HandleRequest method and  3980 is the port number which is the argument for the main method.
 inside the HandleRequest method "s" variable stores the message while "user" variable stores the name of the user. another important field being used is the string "chatHistory", which stores starts as an empty string and all the output of all the commands ran get stored in it.
-
 when the first add-message is used, the value of "s" becomes "hello" and user get assigned the value "jpolitz". the output is stored in chatHistory and then returned.
 
 ![Image](1986CE3B-7E53-4E9E-B96F-B2C9A06A9DBD.jpeg)
 this example also used the same main and HandleRequest methods as the first example.
 the same parameters are used but have different input values. "s" stores "how are you today" and "user" stores "yash". the formated output is again stored in chatHistory, but in this case the output of example one also remains in chatHistory. 
 so the final return message will be both the examples ran till now one after the other in new lines.
+
+## PART 2
+
 
 
 
